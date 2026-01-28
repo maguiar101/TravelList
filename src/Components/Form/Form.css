@@ -1,0 +1,40 @@
+.addForm{
+    background-color: #00ffd571;
+    font-family: 'Sansation', serif;
+    border-radius: 2rem;
+    width: 30%;
+    min-width: fit-content;
+    margin: 1rem auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+
+.formTitle {
+    font-size: 1rem;
+}
+.dropdown {
+    width:15%;
+    border: none;
+    border-radius: 0.5rem;
+    margin: 0.5rem 0.8rem;
+    padding: 0.2rem;
+    background-color: #ffffff8c;
+}
+.formInput {
+    width: 50%;
+    padding: 0.2rem;
+    border: none;
+    border-radius: 0.5rem;
+    background-color: #ffffff8c;
+}
+
+.addButton {
+    background-color: #60ffb8b1;
+    border: none;
+    border-radius: 0.5rem;
+    margin-left: 0.5rem;
+    padding: 0.3rem;
+    cursor: pointer;
+    font-weight: bold;
+}

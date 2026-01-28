@@ -1,0 +1,58 @@
+.packingList {
+  background-color: #7fffd4b1;
+  font-family: "Alumni Sans Pinstripe", serif;
+  font-size: 1.8rem;
+  border-radius: 1rem;
+  margin: 1rem auto;
+  text-align: center;
+  padding: 1rem;
+  width: 70%;
+  height: 34rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.list {
+  list-style: none;
+  margin: 1rem auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  width: 100%;
+  overflow-y: auto;
+  flex: 1;
+  padding: 0 1rem;
+}
+
+.sortSelect {
+  padding: 0.3rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: #ffffffa7;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.resetButton {
+  padding: 0.3rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: #ff6b6bcd;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.resetButton:hover {
+  background-color: #ff4c4c;
+}
+
+.controls {
+  margin-top: auto;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}

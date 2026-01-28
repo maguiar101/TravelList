@@ -1,0 +1,19 @@
+.stats {
+    background-color: #f8f9faaf;
+    font-family: 'Sansation', serif;
+    border-radius: 0.5rem;
+    width: 45%;
+    min-width: fit-content;
+    height: 2.5rem;
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem auto;
+    padding: 0.5rem;
+    position: relative;
+    
+
+    
+    
+}
