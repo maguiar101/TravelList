@@ -18,7 +18,7 @@ You can add any amount of items you would like to the list, notice the bottom da
 <img width="1500" height="827" alt="Screenshot 2026-02-02 at 11 05 51 AM" src="https://github.com/user-attachments/assets/9927647a-a375-40c8-a385-03f6a2cf9af9" />
 
 
-You can sort the list at bottom
+You can sort the list to your liking
 
 <img width="1495" height="825" alt="Screenshot 2026-02-02 at 11 07 31 AM" src="https://github.com/user-attachments/assets/b0f3b57b-9707-430d-b4c1-61f007d3ea2d" />
 
